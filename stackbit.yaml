@@ -5,6 +5,7 @@ buildCommand: npm run build
 publishDir: public
 staticDir: static
 uploadDir: images
+nodeVersion: 12
 dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
